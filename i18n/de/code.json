@@ -1,0 +1,10 @@
+{
+    "home.tagline": {
+        "message": "Farm smarter, not harder",
+        "description": "Tag line on the home page"
+    },
+    "home.introduction": {
+        "message": "Einführung",
+        "description": "Home button text"
+    }
+}
