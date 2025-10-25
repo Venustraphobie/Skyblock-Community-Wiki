@@ -1,5 +1,6 @@
 # Der Venditor
-Der Venditor ist eine alternative zum Marktstand. Er funktioniert so wie eine Kiste oder ein Itemlager (füge Link ein). Der Venditor nimmt Items auf und bewahrt diese in seinem Inventar auf. Sein Inventar kann man mit Talern vergrößern. Der Catch bei dem Venditor ist aber, dass man alle Items, die in diesen einfließen mit dem Hebel vorne am Venditor verkaufen kann.
+Der Venditor ist eine Alternative zum Marktstand. Er funktioniert ähnlich wie eine Kiste oder ein Itemlager, da er Items aufnimmt und in seinem Inventar speichert. Dieses Inventar kann mit Talern erweitert werden.
+Der besondere Vorteil des Venditors ist jedoch, dass man alle Items, die sich darin befinden, über den Hebel an der Vorderseite auf einmal verkaufen kann.
 :::note
-Da der Venditor momentan nicht durch eine Schatzkiste erhaltbar ist und nur für sehr teuer von anderen Spielern verkauft wird, ist es empfohlen den Marktstand zu benutzen um am effektivsten Geld zu verdienen!
+Da der Venditor derzeit nicht über Schatzkisten erhältlich ist und nur zu hohen Preisen von anderen Spielern verkauft wird, wird empfohlen, stattdessen den Marktstand zu verwenden, um Geld am effektivsten zu verdienen.
 :::

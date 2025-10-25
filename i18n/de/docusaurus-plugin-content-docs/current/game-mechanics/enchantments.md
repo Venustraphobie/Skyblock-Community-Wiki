@@ -14,13 +14,18 @@ Mending funktioniert genauso wie in Vanilla, jedoch ist die Besonderheit in Skyb
 Gierige Reperatur funktioniert so wie Mending, nur dass man mehr XP braucht um sein Tool zu reparieren. Der Vorteil an gieriger Reparatur ist, dass man diese Verzauberung mit jeder Verzauberung kombinieren kann.
 
 ## Baumfällen
-Die Verzauberung Baumfällen lässt sich mit einer Axt kombinieren. Diese Verzauberung verleiht dir die Fähigkeit, einen ganzen Baum abzubauen, obwohl du nur einen Stamm des Baumes abbaust. Diese Verzauberung lässt sich NICHT mit Mending kombinieren!
+Die Verzauberung Baumfällen lässt sich mit einer Axt kombinieren. Diese Verzauberung verleiht dir die Fähigkeit, einen ganzen Baum abzubauen, obwohl du nur einen Stamm des Baumes abbaust. **Diese Verzauberung lässt sich NICHT mit Mending kombinieren!**
 
 ## Mehrfachzerstörung
-Die Verzauberung Mehrfachzerstörung lässt sich mit einer Axt, Spitzhacke, Hacke, oder Schaufel kombinieren. Sie verleiht dir die Fähigkeit mehrere Blöcke auf einmal abzubauen. Es gibt 3 verschiedene Stufen, die man mit Rechtsklick auswählen kann. Stufe 1 ist, dass man Blöcke in einem 1x1x1 Umkreis abbauen kann. Stufe 2 ist 3x3x3 Umkreis und Stufe 3 ist 5x5x5 Umkreis. Diese Verzauberung lässt sich NICHT mit Mending kombinieren!
+Die Verzauberung Mehrfachzerstörung lässt sich mit einer Axt, Spitzhacke, Hacke, oder Schaufel kombinieren. Sie verleiht dir die Fähigkeit mehrere Blöcke auf einmal abzubauen. Es gibt 3 verschiedene Stufen, womit man bestimmen kann wie viele Blöcke man auf einmal abbauen kann:
+- Stufe 1 1x1x1 Blöcke
+- Stufe 2 3x3x3 Blöcke
+- Stufe 3 5x5x5 Blöcke
+**Diese Verzauberung lässt sich NICHT mit Mending kombinieren!**
+
 
 ## Automatisches Nachpflanzen
-Die Verzauberung automatisches Nachpflanzen lässt sich mit einer Hacke kombinieren. Sie verleiht dir die Fähigkeit Pflanzen, die du mit der Hacke abgebaut hast, automatisch wieder anzupflanzen. Diese Verzauberung lässt sich NICHT mit Mending kombinieren!
+Die Verzauberung automatisches Nachpflanzen lässt sich mit einer Hacke kombinieren. Sie verleiht dir die Fähigkeit Pflanzen, die du mit der Hacke abgebaut hast, automatisch wieder anzupflanzen. **Diese Verzauberung lässt sich NICHT mit Mending kombinieren!**
 
 ## Schnelligkeit
 Die Verzauberung Schnelligkeit (Level 1-3) lässt sich mit Schuhen kombinieren. Du bewegst dich dadurch schneller.
