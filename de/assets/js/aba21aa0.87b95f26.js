@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkskyblock_community_wiki=globalThis.webpackChunkskyblock_community_wiki||[]).push([[742],{7093:s=>{s.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"default"}')}}]);
