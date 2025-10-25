@@ -1,0 +1,2 @@
+# Handelsstand und Handelsterminal
+Ein Handelsstand ist ein sozusagen ein Spielershop. Man kann ein Item in den Handelsstand tun in dieses Item für Taler verkaufen und / oder ankaufen. Beim Handelsstand muss man die Items immer manuell nachfüllen. Bei dem Handelsterminal ist dies ein wenig anders. Er funktioniert vom Prinzip her gleich wie der Handelsstand, jedoch kann man diesen mit Röhren und Trichtern verbinden und automatisch nachfüllen lassen.

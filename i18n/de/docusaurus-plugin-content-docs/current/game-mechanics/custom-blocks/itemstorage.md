@@ -1,0 +1,2 @@
+# Itemlager
+Das Itemlager funktioniert sozusagen wie eine Kiste, nur dass man sehr viel mehr Platz in dem Itemlager hat. Man kann den Platz auch immer weiter upgraden mit Talern. In ein Itemlager kann man jedoch nur eine Art Item lagern!
