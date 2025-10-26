@@ -1,5 +1,5 @@
 # Verzauberungen
-In Skyblock gibt es verschiedene neue Verzauberungen, die es so in Vanilla nicht gibt.
+In Skyblock gibt es verschiedene neue Verzauberungen, die es so in Vanilla nicht gibt. Sie sind nur von anderen Spielern und aus [Schatzkisten](../game-mechanics/treasure-chests.md) erwerbbar.
 
 ## Haltbarkeit
 [Haltbarkeit](https://de.minecraft.wiki/w/Haltbarkeit) geht normalerweise nur bis Haltbarkeit 3. In Skyblock ist es jedoch so, dass Haltbarkeit bis Level 10 gehen kann. Haltbarkeit 4-10 kann man entweder aus [Schatzkisten](./treasure-chests.md) bekommen, oder von anderen Spielern erwerben.
@@ -23,6 +23,8 @@ Die Verzauberung Mehrfachzerstörung lässt sich mit einer Axt, Spitzhacke, Hack
 - Stufe 1 1x1x1 Blöcke
 - Stufe 2 3x3x3 Blöcke
 - Stufe 3 5x5x5 Blöcke
+
+Tust du die Verzauberung auf die Hacke, wird das Beackern von Grasblöcken je nach Stufe auf mehrere Blöcke ausgeweitet.
 
 **Diese Verzauberung lässt sich NICHT mit Mending kombinieren!**
 

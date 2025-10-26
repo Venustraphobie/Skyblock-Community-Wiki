@@ -12,7 +12,10 @@ In Skyblock gibt es verschiedene Befehle, die wichtig sein können:
 - `/ad <Text>` um Werbung für beispielsweise deinen Shop zu machen.
 - #h vor deiner Nachricht um den Handelschat zu benutzen.
 - \# vor deiner Nachricht um den lokalen Chat zu benutzen
-- `/visit <Spieler>` um die Insel eines anderen Spielers zu besuchen.
+- `/visit <Spieler>` öffnet ein Menü, welches alle besuchbaren Insel des gennanten Spieler auflistet.
+
+![Spieler besuchen](@site/static/img/de/game-mechanics/visitisland.png)
+
 - [item] während du ein Item in der Hand hälst, um das Item im Chat anzeigen zu lassen.
 
 

@@ -7,4 +7,4 @@ Es können NUR Weizen, Kartoffeln, rote Beete und Karotten von der Erntemaschine
 :::
 Die geernteten Pflanzen speichert die Erntemaschine in ihrem Inventar, welches 5 Slots hat. Sobald diese Slots voll sind droppt die Erntemaschine jede weitere geerentete Pflanze. 
 
-Indem du einen Trichter unter die Erntemaschine platzierst, kannst du die Pflanzen in den Trichter weiterleiten und diese mit Röhren oder ähnlichem an z.B. eine Kiste weiterleiten.
+Indem du einen [Trichter oder eine Röhre](./hoppers.md) unter die Erntemaschine platzierst, kannst du die Pflanzen in den Trichter weiterleiten und diese mit Röhren oder ähnlichem an z.B. eine Kiste weiterleiten.

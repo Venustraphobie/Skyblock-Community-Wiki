@@ -1,5 +1,5 @@
 # Das Angelsystem
-Auf Skyblock gibt es ein neues Angelsystem, bei dem du mit Ködern verschiedene Arten von Fischen angeln kannst, die es in vanilla Minecraft nicht gibt.
+Auf Skyblock gibt es ein erweitertes Angelsystem, bei dem du mit Ködern verschiedene Arten von Fischen angeln kannst, die es in vanilla Minecraft nicht gibt.
 
 [Rüdiger die Robbe](./npcs.md#rüdiger-die-robbe) wird dir Quests geben, die dir helfen werden, das Angelsystem besser zu verstehen.
 
