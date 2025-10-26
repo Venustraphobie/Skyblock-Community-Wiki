@@ -1,0 +1,10 @@
+{
+  "sidebar.main.category.game-mechanics": {
+    "message": "Game mechanics",
+    "description": "Sidebar category label"
+  },
+  "sidebar.main.category.custom-blocks": {
+    "message": "Custom blocks",
+    "description": "Sidebar category label"
+  }
+}
