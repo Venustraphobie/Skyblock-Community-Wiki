@@ -1,5 +1,7 @@
 # Erntemaschine
-Die Erntemaschine ist ein essenzieller Block für die Automatisierung des Marktstands (hier Link einfügen). Sie funktioniert so wie ein Farmer Villager. Die Erntemaschine scannt einen 9x9 Bereich nach Pflanzen und erntet diese, sobald sie bereit sind zum Ernten. Wenn die 9x9 Fläche erfolgreich gescannt wird und keine Pflanzen fehlen, leuchtet die 9x9 Fläche grün. Wenn Pflanzen fehlen, leuchtet sie rot.
+![Erntemaschine](@site/static/img/de/custom-blocks/harvestmachine.webp)
+
+Die Erntemaschine ist ein essenzieller Block für die Automatisierung des [Marktstands](../game-mechanics/marketstall.md). Sie funktioniert so wie ein Farmer Villager. Die Erntemaschine scannt einen 9x9 Bereich nach Pflanzen und erntet diese, sobald sie bereit sind zum Ernten. Wenn die 9x9 Fläche erfolgreich gescannt wird und keine Pflanzen fehlen, leuchtet die 9x9 Fläche grün. Wenn Pflanzen fehlen, leuchtet sie rot.
 :::warning
 Glowberries, Süßbeeren, Netherwarzen und ähnliches können NICHT von der Erntemaschine geerntet werden!
 :::

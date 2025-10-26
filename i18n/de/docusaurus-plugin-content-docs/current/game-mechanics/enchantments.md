@@ -2,13 +2,13 @@
 In Skyblock gibt es verschiedene neue Verzauberungen, die es so in Vanilla nicht gibt.
 
 ## Haltbarkeit
-Haltbarkeit geht normalerweise nur bis Haltbarkeit 3. In Skyblock ist es jedoch so, dass Haltbarkeit bis Level 10 gehen kann. Haltbarkeit 4-10 kann man entweder aus Schatzkisten (füge hier Link ein) bekommen, oder von anderen Spielern erwerben.
+[Haltbarkeit](https://de.minecraft.wiki/w/Haltbarkeit) geht normalerweise nur bis Haltbarkeit 3. In Skyblock ist es jedoch so, dass Haltbarkeit bis Level 10 gehen kann. Haltbarkeit 4-10 kann man entweder aus [Schatzkisten](./treasure-chests.md) bekommen, oder von anderen Spielern erwerben.
 
 ## Effizienz
-So wie bei Haltbarkeit ist es so, dass Effizienz in Skyblock das maximale vanilla Level überschreiten kann. Hier ist es so, dass Level 5 nicht das maximale Level ist, sondern 10. Effizienz 6-10 kann man entweder aus Schatzkisten bekommen, oder von anderen Spielern erwerben.
+So wie bei Haltbarkeit ist es so, dass [Effizienz](https://de.minecraft.wiki/w/Effizienz) in Skyblock das maximale vanilla Level überschreiten kann. Hier ist es so, dass Level 5 nicht das maximale Level ist, sondern 10. Effizienz 6-10 kann man entweder aus Schatzkisten bekommen, oder von anderen Spielern erwerben.
 
 ## Mending
-Mending funktioniert genauso wie in Vanilla, jedoch ist die Besonderheit in Skyblock, dass man Mending nicht mit allen Verzauberungen kombinieren kann und es deutlich schwerer ist Mending zu bekommen.
+[Mending](https://de.minecraft.wiki/w/Reparatur) funktioniert genauso wie in Vanilla, jedoch ist die Besonderheit in Skyblock, dass man Mending nicht mit allen Verzauberungen kombinieren kann und es deutlich schwerer ist Mending zu bekommen.
 
 ## Gierige Reparatur
 Gierige Reperatur funktioniert so wie Mending, nur dass man mehr XP braucht um sein Tool zu reparieren. Der Vorteil an gieriger Reparatur ist, dass man diese Verzauberung mit jeder Verzauberung kombinieren kann.

@@ -22,4 +22,4 @@ Der Mülltrichter ermöglicht es einem Items, die durch den Trichter gehen zu l�
 Der Blockiertrichter ermöglicht es einem die Aufnahme definierter Gegenstände zu blockieren. Um auszuwählen welches Item man blockiert, macht man Shift + Rechtsklick auf den Blockiertrichter und tut das jeweilige Item in einen der 7 Slots.
 
 ## Ferntrichter
-Ein Ferntrichter funktioniert so wie ein normaler Trichter. Er nimmt Items auf, jedoch ist das Besondere an dem Trichter, dass man mit Shift + Rechtsklick während man den Ferntrichter in der Handheld auf eine Truhe oder einen Venditor (hier link einfügen) drücken kann und der Ferntrichter dann dieses Ziel hat. Also jedes Item, was in den Ferntrichter kommt, wird in das ausgewählte Ziel transportiert.
+Ein Ferntrichter funktioniert so wie ein normaler Trichter. Er nimmt Items auf, jedoch ist das Besondere an dem Trichter, dass man mit Shift + Rechtsklick während man den Ferntrichter in der Hand held auf eine Truhe oder einen Venditor (hier link einfügen) drücken kann und der Ferntrichter dann dieses Ziel hat. Also jedes Item, was in den Ferntrichter kommt, wird in das ausgewählte Ziel transportiert.

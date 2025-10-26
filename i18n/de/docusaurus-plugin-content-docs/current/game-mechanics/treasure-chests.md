@@ -1,5 +1,7 @@
 # Schatzkisten
-In Skyblock kannst du dir beim Schatzkisten-NPC am Spawn für 100 Rubine einen Schatzkisten-Schlüssel kaufen. Verwendest du einen Schlüssel, erscheinen drei Schatzkisten, die du anschließend öffnen kannst.
+In Skyblock kannst du dir beim [Schatzkisten-NPC](./npcs.md#schatzkisten-npc) am Spawn für 100 Rubine einen Schatzkisten-Schlüssel kaufen. Verwendest du einen Schlüssel, erscheinen drei Schatzkisten, die du anschließend öffnen kannst.
+
+![Gosel öffnet Schatzkiste](@site/static/img/de/game-mechanics/treasurechest-open.webp)
 
 Schatzkisten werden in 5 Arten unterteilt:
 ## Holzkiste
@@ -18,7 +20,7 @@ Die Hütekiste ist die seltenste aller Schatzkisten mit nur 1% Chance, zu ersche
 Sie enthält verschiedene Hüte.
 
 ## Eventschatzkisten
-Gelegentlich erscheint ein zweiter Schatzkisten-NPC am Spawn, der Event-Schatzkisten-Schlüssel verkauft.
+Gelegentlich erscheint ein zweiter [Schatzkisten-NPC](./npcs.md#event-schatzkisten-npc) am Spawn, der Event-Schatzkisten-Schlüssel verkauft.
 Aus diesen speziellen Kisten kannst du saisonale oder exklusive Items erhalten.
 :::note
 Welche Items in den einzelnen Schatzkisten enthalten sind, kannst du beim jeweiligen NPC nachschauen.
