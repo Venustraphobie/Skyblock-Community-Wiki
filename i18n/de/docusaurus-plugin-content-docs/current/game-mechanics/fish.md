@@ -3,7 +3,7 @@ Auf Skyblock gibt es ein erweitertes Angelsystem, bei dem du mit Ködern verschi
 
 [Rüdiger die Robbe](./npcs.md#rüdiger-die-robbe) wird dir Quests geben, die dir helfen werden, das Angelsystem besser zu verstehen.
 
-Der [Fischhändler](./npcs.md#fischhändler) ist ein wichtiger Bestandteil des Angelsystems, da er dir für Perlen weitere Köder traden kann. Perlen erhälst du, indem du Fische mit ihm tradest.
+Der [Fischhändler](./npcs.md#fischhändler) ist ein wichtiger Bestandteil des Angelsystems, da er dir für Perlen weitere Köder traden kann. Perlen erhältst du, indem du Fische mit ihm tradest.
 
 Es gibt verschiedene Arten von Ködern, die dir verschiedene Arten von Fischen geben können:
 - gewöhnlicher Köder
@@ -13,6 +13,6 @@ Es gibt verschiedene Arten von Ködern, die dir verschiedene Arten von Fischen g
 - blutiger Köder
 - Gelee Köder
 
-Außerdem gibt es jeden Sonntag einen Angelwettbewerb, bei dem du einen Angelpokal gewinnen kannst, indem du Fische, die du während des Wettbewerbs geangelt hast beim [NPC](./npcs.md#angelwettbewerb) abgibst. Für jeden abegegebenen Fisch erhälst du Punkte basierend auf wie groß der Fisch war.
+Außerdem gibt es jeden Sonntag einen Angelwettbewerb, bei dem du einen Angelpokal gewinnen kannst, indem du Fische, die du während des Wettbewerbs geangelt hast, beim [NPC](./npcs.md#angelwettbewerb) abgibst. Für jeden abegegebenen Fisch erhältst du Punkte nach der Größe des Fisches.
 
-![Angelpokal](@site/static/img/de/game-mechanics/fishingthrophy.png)
+![Angelpokal](@site/static/img/de/game-mechanics/fishingtrophy.png)

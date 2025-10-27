@@ -24,7 +24,7 @@ Die Verzauberung Mehrfachzerstörung lässt sich mit einer Axt, Spitzhacke, Hack
 - Stufe 2 3x3x3 Blöcke
 - Stufe 3 5x5x5 Blöcke
 
-Tust du die Verzauberung auf die Hacke, wird das Beackern von Grasblöcken je nach Stufe auf mehrere Blöcke ausgeweitet.
+Tust du die Verzauberung auf eine Hacke, wird das Beackern von Grasblöcken je nach Stufe auf mehrere Blöcke ausgeweitet.
 
 **Diese Verzauberung lässt sich NICHT mit Mending kombinieren!**
 
@@ -41,17 +41,17 @@ Die Verzauberung Schnelligkeit (Level 1-3) lässt sich mit Schuhen kombinieren. 
 Die Verzauberung Hungerlos (Level 1-3) lässt sich mit jedem Rüstungsteil kombinieren. Du hast dadurch weniger Hunger. Hast du auf allen Rüstungsteilen Hungerlos III, hast du gar keinen Hunger mehr.
 
 ## Leerenblick
-Die Verzauberung Leerenblick lässt sich mit deinem Helm kombinieren. Durch die Verzauberung werden Endermänner werden nicht mehr aggressiv wenn du sie anguckst.
+Die Verzauberung Leerenblick lässt sich mit einem Helm kombinieren. Durch die Verzauberung werden Endermänner nicht mehr aggressiv wenn du sie anguckst.
 
 ## Magnetiesierend
 Die Verzauberung Magnetisierend lässt sich mit allen Tools kombinieren. Gedroppte Items werden dadurch automatisch in dein Inventar gelegt.
 
 ## Nachteule
-Die Verzauberung Nachteule lässt sich mit deinem Helm kombinieren. Du erhälst dadurch Nachtsicht.
+Die Verzauberung Nachteule lässt sich mit deinem Helm kombinieren. Du erhältst dadurch Nachtsicht.
 
 ## Reichweite
-Die Verzauberung Reichweite (Level 1 und 2) lässt sich mit jedem Rüstungsteil kombinieren. Du erhälst pro Level 1 Block mehr Interaktionsreichweite, also kannst du maximal 8 Blöcke mehr Reichweite haben.
+Die Verzauberung Reichweite (Level 1 und 2) lässt sich mit jedem Rüstungsteil kombinieren. Du erhältst pro Level 1 Block mehr Interaktionsreichweite, also kannst du maximal 8 Blöcke mehr Reichweite haben.
 
 ## Speicher
-Mit der Verzauberung Speicher (Level 3 oder 6)  erhält dein Tool ein eigenes Inventar, welches du mit Shift + Rechtsklick öffnen kannst. So lange Platz in diesem Inventar ist, werden gedroppte Items automatisch in das Inventar gelegt. Das Level der Verzauberung legt dabei fest, wie viele Reihen das Inventar hat.
+Mit der Verzauberung Speicher (Level 3 oder 6) erhält dein Tool ein eigenes Inventar, welches du mit Shift + Rechtsklick öffnen kannst. Solange Platz in diesem Inventar ist, werden gedroppte Items automatisch in das Inventar gelegt. Das Level der Verzauberung legt dabei fest, wie viele Reihen das Inventar hat.
 

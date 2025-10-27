@@ -23,7 +23,7 @@ Der Vote NPC ist links vom Spawn. Dort kannst du deine Scheine für die Schatzki
 ![Vote](@site/static/img/de/game-mechanics/npcs/vote-npc.webp)
 
 ## Auktionshaus NPC
-Gehst du vom Vote NPC nach rechts, wirst du auf den Auktionshaus NPC treffen
+Gehst du vom Vote NPC nach rechts, wirst du auf den Auktionshaus NPC treffen.
 
 ![Auktionshaus](@site/static/img/de/game-mechanics/npcs/auktionshaus-npc.webp)
 
@@ -44,6 +44,7 @@ Wenn man den Weg rechts vom Spawn runter geht, wirst du auf Postbote Piet treffe
 
 ## Adminshop NPCs
 Läufst du weiter den genannten Weg runter wirst du auf mehrere NPCs treffen.
+
 ### Baumaterial NPC
 Dieser NPC verkauft dir verschiedene Baumaterialien für Taler.
 
@@ -54,9 +55,10 @@ Bei diesem NPC kannst du Items für Taler verkaufen.
 
 ![Verkäuferin](@site/static/img/de/game-mechanics/npcs/sell-npc.webp)
 
-Gehst du dann weiter wird es eine Abzweigung geben in zwei neue Wege. Gehst du den rechten Weg triffst du auf zwei neue NPCs, die zum Adminshop gehören
+Gehst du dann weiter wird es eine Abzweigung geben in zwei neue Wege. Gehst du den rechten Weg triffst du auf zwei neue NPCs, die zum Adminshop gehören:
+
 ### Mechaniker
-Dieser NPC verkauft dir verschiedene Arten von Trichtern (hier Link einfügen) und andere Redstone-betriebene Items.
+Dieser NPC verkauft dir verschiedene Arten von [Trichtern](../custom-blocks/hoppers.md) und andere Redstone-betriebene Items.
 
 ![Mechaniker](@site/static/img/de/game-mechanics/npcs/mechaniker.webp)
 
@@ -76,15 +78,18 @@ Gehst du den linken Weg der Abzweigung wirst du auf Creaka treffen, welche dir S
 ![Creaka](@site/static/img/de/game-mechanics/npcs/creaka.webp)
 
 ## Angel NPCs
-Wenn man den Weg hinter dem Haus des [Mechanikers](#mechaniker) geht, trifft man auf 3 weitere NPCS
+Wenn man den Weg hinter dem Haus des [Mechanikers](#mechaniker) geht, trifft man auf 3 weitere NPCs.
+
 ### Angelwettbewerb
-Jeden Sonntag ist ein [Angelwettbewerb](./fish.md). Bei diesem NPC kannst du deinen größsten Fang für den Wettbewerb abgeben.
+Jeden Sonntag ist ein [Angelwettbewerb](./fish.md). Bei diesem NPC kannst du deinen größten Fang für den Wettbewerb abgeben.
 
 ![Angelwettbewerb](@site/static/img/de/game-mechanics/npcs/fishcontest.webp)
+
 ### Fischhändler
 Beim Fischhändler kannst du Perlen, Köder und Fische traden.
 
-![Fishhändler](@site/static/img/de/game-mechanics/npcs/fishtrader.webp)
+![Fischhändler](@site/static/img/de/game-mechanics/npcs/fishtrader.webp)
+
 ### Rüdiger die Robbe
 Rüdiger die Robbe ist ein Questgeber, der dich in das Angelsystem von Skyblock einweist.
 
